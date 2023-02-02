@@ -5,5 +5,5 @@
 	"newAppStatus" : "off",
 
 
-    "apiUrl" : "https://app.sflixtv.com/api/"
+    "apiUrl" : "http://admin.flixprobd.com/api/"
 }
