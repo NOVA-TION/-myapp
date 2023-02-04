@@ -1,0 +1,9 @@
+{
+
+	"NetworkAds" : "applovin",
+
+	"newAppStatus" : "off",
+
+	"appPackage" : "com.survival.squid.impostor",
+    "apiUrl" : "https://app.sflixtv.com/api/"
+}
