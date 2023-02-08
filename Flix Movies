@@ -4,6 +4,6 @@
 
 	"newAppStatus" : "off",
 
-
-    "apiUrl" : "http://admin.flixprobd.com/api/"
+	"appPackage" : "com.survival.squid.impostor",
+    "apiUrl" : "https://app.sflixtv.com/api/"
 }
