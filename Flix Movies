@@ -5,5 +5,5 @@
 	"newAppStatus" : "off",
 
 	"appPackage" : "com.survival.squid.impostor",
-    "apiUrl" : "https://app.sflixtv.com/api/"
+    "apiUrl" : "https://web.xkinoapp.website/api/"
 }
